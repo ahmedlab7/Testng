@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="13701" started-at="2019-10-27T23:47:11Z" finished-at="2019-10-27T23:47:25Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="13701" started-at="2019-10-27T23:47:11Z" finished-at="2019-10-27T23:47:25Z">
+      <class name="testcases.Tests">
+        <test-method status="PASS" signature="launchBrowser()[pri:0, instance:testcases.Tests@4c70fda8]" name="launchBrowser" is-config="true" duration-ms="4613" started-at="2019-10-27T23:47:11Z" finished-at="2019-10-27T23:47:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method status="PASS" signature="addCategory()[pri:0, instance:testcases.Tests@4c70fda8]" name="addCategory" duration-ms="4398" started-at="2019-10-27T23:47:16Z" finished-at="2019-10-27T23:47:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addCategory -->
+        <test-method status="PASS" signature="noDuplication()[pri:1, instance:testcases.Tests@4c70fda8]" name="noDuplication" duration-ms="4237" started-at="2019-10-27T23:47:20Z" finished-at="2019-10-27T23:47:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- noDuplication -->
+        <test-method status="PASS" signature="MonthDropDownList()[pri:2, instance:testcases.Tests@4c70fda8]" name="MonthDropDownList" duration-ms="420" started-at="2019-10-27T23:47:24Z" finished-at="2019-10-27T23:47:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MonthDropDownList -->
+        <test-method status="PASS" signature="close()[pri:0, instance:testcases.Tests@4c70fda8]" name="close" is-config="true" duration-ms="3214" started-at="2019-10-27T23:47:25Z" finished-at="2019-10-27T23:47:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- testcases.Tests -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
